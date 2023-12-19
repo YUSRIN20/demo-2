@@ -1,4 +1,4 @@
-"# demo-2" 
+# demo-2
 
 This repository is created for giving Demo on Git & Git Hub.
 
